@@ -18,7 +18,7 @@ To summarize it, they basically run lot's of different algorithms in various pro
 
 Here is what they found:
 
-![image](img/ple.png)
+![image](/images/ple.png)
 
 I saw a lot of people talking about this - awesome - research, which is pretty cool. But they were using it to show that some programming languages are greener than others, which is just wrong.
 
